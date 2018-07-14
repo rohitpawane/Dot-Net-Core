@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\fundooNotesAngular5.DAL\fundooNotesAngular5.DAL.csproj" />
+    <ProjectReference Include="..\fundooNotesAngular5.Repository\fundooNotesAngular5.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

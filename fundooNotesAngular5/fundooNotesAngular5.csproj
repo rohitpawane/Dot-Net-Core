@@ -1,0 +1,70 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-fundooNotesAngular5-E14F7C6B-EFBC-40BC-807C-371B2618511F</UserSecretsId>
+    <TypeScriptToolsVersion>2.6</TypeScriptToolsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ClientApp\src\app\app.routing.ts" />
+    <None Remove="ClientApp\src\app\archive\archive.component.ts" />
+    <None Remove="ClientApp\src\app\directives\changecolor.directive.ts" />
+    <None Remove="ClientApp\src\app\directives\navtoolbar.directive.ts" />
+    <None Remove="ClientApp\src\app\selectedlabel\selectedlabel.component.ts" />
+    <None Remove="ClientApp\src\app\services\auth.service.ts" />
+    <None Remove="ClientApp\src\app\services\labelsharing.service.ts" />
+    <None Remove="ClientApp\src\app\trash\trash.component.ts" />
+    <None Remove="ClientApp\src\models\ICollaborate.ts" />
+    <None Remove="ClientApp\src\models\ILabel.ts" />
+    <None Remove="ClientApp\src\models\INotes.ts" />
+    <None Remove="ClientApp\src\pipes\archive.pipe.ts" />
+    <None Remove="ClientApp\src\pipes\collaborator.pipe.ts" />
+    <None Remove="ClientApp\src\pipes\label.pipe.ts" />
+    <None Remove="ClientApp\src\pipes\labelfilter.pipe.ts" />
+    <None Remove="ClientApp\src\pipes\notefileter.pipe.ts" />
+    <None Remove="ClientApp\src\pipes\trash.pipe.ts" />
+    <None Remove="ClientApp\src\pipes\unpin.pipe.ts" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.2" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.1" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\fundooNotesAngular5.DAL\fundooNotesAngular5.DAL.csproj" />
+    <ProjectReference Include="..\fundooNotesAngular5.Service\fundooNotesAngular5.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\src\app\app.routing.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\archive\archive.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\directives\changecolor.directive.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\selectedlabel\selectedlabel.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\services\auth.service.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\services\labelsharing.service.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\trash\trash.component.ts" />
+    <TypeScriptCompile Include="ClientApp\src\models\ICollaborate.ts" />
+    <TypeScriptCompile Include="ClientApp\src\models\ILabel.ts" />
+    <TypeScriptCompile Include="ClientApp\src\models\INotes.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\archive.pipe.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\collaborator.pipe.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\label.pipe.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\labelfilter.pipe.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\trash.pipe.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\notefileter.pipe.ts" />
+    <TypeScriptCompile Include="ClientApp\src\pipes\unpin.pipe.ts" />
+  </ItemGroup>
+
+</Project>

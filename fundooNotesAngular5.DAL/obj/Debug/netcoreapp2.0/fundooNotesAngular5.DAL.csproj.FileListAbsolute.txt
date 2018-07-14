@@ -1,0 +1,10 @@
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.dll.config
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.deps.json
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.dll
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.pdb
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\obj\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.csprojResolveAssemblyReference.cache
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\obj\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.csproj.CoreCompileInputs.cache
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\obj\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.AssemblyInfoInputs.cache
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\obj\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.AssemblyInfo.cs
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\obj\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.dll
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.DAL\obj\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.pdb

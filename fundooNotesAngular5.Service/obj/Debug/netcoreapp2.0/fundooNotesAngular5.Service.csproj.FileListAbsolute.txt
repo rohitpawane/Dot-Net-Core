@@ -1,0 +1,15 @@
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.Service.deps.json
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.Service.dll
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.Service.pdb
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.dll
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.Repository.dll
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.pdb
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.DAL.dll.config
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\bin\Debug\netcoreapp2.0\fundooNotesAngular5.Repository.pdb
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.csprojResolveAssemblyReference.cache
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.csproj.CoreCompileInputs.cache
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.AssemblyInfoInputs.cache
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.AssemblyInfo.cs
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.csproj.CopyComplete
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.dll
+E:\Angular 5\fundooNotesAngular5\fundooNotesAngular5\fundooNotesAngular5.Service\obj\Debug\netcoreapp2.0\fundooNotesAngular5.Service.pdb
